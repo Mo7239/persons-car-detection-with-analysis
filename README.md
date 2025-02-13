@@ -3,7 +3,9 @@
 
 <h2>📌  Overview </h2>
 This project leverages Computer Vision to perform real-time object detection for two classes:
+
 🔹 Person 👤
+
 🔹 Car 🚗
 
 Additionally, it provides visual insights into the detected objects by calculating the proportions of each class in the scene, making it highly valuable for real-time applications.
